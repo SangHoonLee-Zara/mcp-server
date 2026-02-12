@@ -146,3 +146,4 @@ mcp.json
 
 # Generated images
 *.jpg
+.vercel
